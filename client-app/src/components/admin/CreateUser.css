@@ -1,0 +1,18 @@
+.ant-radio-checked .ant-radio-inner {
+  border-color: #cf2338 !important ;
+}
+
+.ant-radio-checked .ant-radio-inner:after {
+  background-color: #cf2338;
+}
+
+.ant-radio:hover .ant-radio-inner {
+  border-color: #cf2338;
+}
+.inputForm{
+  color:black !important;
+}
+.ant-select-single.ant-select-show-arrow .ant-select-selection-item{
+  color:#000 !important;
+}
+

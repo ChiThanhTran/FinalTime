@@ -1,0 +1,117 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.icon{
+  color: #333;;
+}
+
+.icon--danger{
+  color: red;
+  margin-left: 16px;
+}
+
+.navbar {
+  width: 100%;
+  height: 80px;
+  background-color: #cf2338;
+}
+
+.sidebar {
+  width: 300px;
+}
+
+.logo img {
+  width: 100px;
+  height: 100px;
+}
+
+.logo p {
+  font-size: 18px;
+  font-weight: bold;
+  color: #cf2338;
+  margin-bottom: 32px;
+}
+
+.body {
+  margin: 32px;
+}
+
+/* .sidebar--link {
+}
+
+.sidebar--link a {
+  color: #000;
+  font-size: 16px;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.sidebar--link a:active{
+  background-color: #cf2338;
+}
+
+.sidebar--link a div {
+  padding-left: 12px;
+}
+
+.sidebar--link div {
+  padding: 12px 0;
+  margin-bottom: 8px;
+  background-color: #eee;
+}
+
+.sidebar--link div:hover {
+  background-color: #cf2338;
+  color: #fff;
+  cursor: pointer;
+} */
+
+.content {
+  width: 100%;
+  padding-left: 128px;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.ant-select-selection-item{
+  color:black !important;
+}
+.ant-select-show-arrow{
+  color:black !important;
+}
+.ant-select-selection-search{
+  color:black !important;
+}

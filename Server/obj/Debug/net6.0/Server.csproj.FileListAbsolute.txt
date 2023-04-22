@@ -1,0 +1,515 @@
+/home/blxcklght112/Desktop/DEV/Projects/Asset_Management/Server/bin/Debug/net6.0/appsettings.Development.json
+/home/blxcklght112/Desktop/DEV/Projects/Asset_Management/Server/bin/Debug/net6.0/appsettings.json
+/home/blxcklght112/Desktop/DEV/Projects/Asset_Management/Server/bin/Debug/net6.0/Server
+/home/blxcklght112/Desktop/DEV/Projects/Asset_Management/Server/bin/Debug/net6.0/Server.deps.json
+/home/blxcklght112/Desktop/DEV/Projects/Asset_Management/Server/bin/Debug/net6.0/Server.runtimeconfig.json
+/home/blxcklght112/Desktop/DEV/Projects/Asset_Management/Server/bin/Debug/net6.0/Server.dll
+/home/blxcklght112/Desktop/DEV/Projects/Asset_Management/Server/bin/Debug/net6.0/Server.pdb
+/home/blxcklght112/Desktop/DEV/Projects/Asset_Management/Server/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/home/blxcklght112/Desktop/DEV/Projects/Asset_Management/Server/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/blxcklght112/Desktop/DEV/Projects/Asset_Management/Server/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/blxcklght112/Desktop/DEV/Projects/Asset_Management/Server/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/blxcklght112/Desktop/DEV/Projects/Asset_Management/Server/obj/Debug/net6.0/Server.csproj.AssemblyReference.cache
+/home/blxcklght112/Desktop/DEV/Projects/Asset_Management/Server/obj/Debug/net6.0/Server.GeneratedMSBuildEditorConfig.editorconfig
+/home/blxcklght112/Desktop/DEV/Projects/Asset_Management/Server/obj/Debug/net6.0/Server.AssemblyInfoInputs.cache
+/home/blxcklght112/Desktop/DEV/Projects/Asset_Management/Server/obj/Debug/net6.0/Server.AssemblyInfo.cs
+/home/blxcklght112/Desktop/DEV/Projects/Asset_Management/Server/obj/Debug/net6.0/Server.csproj.CoreCompileInputs.cache
+/home/blxcklght112/Desktop/DEV/Projects/Asset_Management/Server/obj/Debug/net6.0/Server.MvcApplicationPartsAssemblyInfo.cs
+/home/blxcklght112/Desktop/DEV/Projects/Asset_Management/Server/obj/Debug/net6.0/Server.MvcApplicationPartsAssemblyInfo.cache
+/home/blxcklght112/Desktop/DEV/Projects/Asset_Management/Server/obj/Debug/net6.0/staticwebassets.build.json
+/home/blxcklght112/Desktop/DEV/Projects/Asset_Management/Server/obj/Debug/net6.0/staticwebassets.development.json
+/home/blxcklght112/Desktop/DEV/Projects/Asset_Management/Server/obj/Debug/net6.0/scopedcss/bundle/Server.styles.css
+/home/blxcklght112/Desktop/DEV/Projects/Asset_Management/Server/obj/Debug/net6.0/Server.csproj.CopyComplete
+/home/blxcklght112/Desktop/DEV/Projects/Asset_Management/Server/obj/Debug/net6.0/Server.dll
+/home/blxcklght112/Desktop/DEV/Projects/Asset_Management/Server/obj/Debug/net6.0/refint/Server.dll
+/home/blxcklght112/Desktop/DEV/Projects/Asset_Management/Server/obj/Debug/net6.0/Server.pdb
+/home/blxcklght112/Desktop/DEV/Projects/Asset_Management/Server/obj/Debug/net6.0/Server.genruntimeconfig.cache
+/home/blxcklght112/Desktop/DEV/Projects/Asset_Management/Server/obj/Debug/net6.0/ref/Server.dll
+<<<<<<< HEAD
+/home/blxcklght112/Desktop/DEV/Projects/Asset_Management/Server/bin/Debug/net6.0/Humanizer.dll
+/home/blxcklght112/Desktop/DEV/Projects/Asset_Management/Server/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/home/blxcklght112/Desktop/DEV/Projects/Asset_Management/Server/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/home/blxcklght112/Desktop/DEV/Projects/Asset_Management/Server/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/blxcklght112/Desktop/DEV/Projects/Asset_Management/Server/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/blxcklght112/Desktop/DEV/Projects/Asset_Management/Server/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/home/blxcklght112/Desktop/DEV/Projects/Asset_Management/Server/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/blxcklght112/Desktop/DEV/Projects/Asset_Management/Server/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/blxcklght112/Desktop/DEV/Projects/Asset_Management/Server/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/home/blxcklght112/Desktop/DEV/Projects/Asset_Management/Server/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/home/blxcklght112/Desktop/DEV/Projects/Asset_Management/Server/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/blxcklght112/Desktop/DEV/Projects/Asset_Management/Server/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/home/blxcklght112/Desktop/DEV/Projects/Asset_Management/Server/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/home/blxcklght112/Desktop/DEV/Projects/Asset_Management/Server/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/blxcklght112/Desktop/DEV/Projects/Asset_Management/Server/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/home/blxcklght112/Desktop/DEV/Projects/Asset_Management/Server/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/home/blxcklght112/Desktop/DEV/Projects/Asset_Management/Server/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/home/blxcklght112/Desktop/DEV/Projects/Asset_Management/Server/bin/Debug/net6.0/System.Drawing.Common.dll
+/home/blxcklght112/Desktop/DEV/Projects/Asset_Management/Server/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/home/blxcklght112/Desktop/DEV/Projects/Asset_Management/Server/bin/Debug/net6.0/System.Runtime.Caching.dll
+/home/blxcklght112/Desktop/DEV/Projects/Asset_Management/Server/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/home/blxcklght112/Desktop/DEV/Projects/Asset_Management/Server/bin/Debug/net6.0/System.Security.Permissions.dll
+/home/blxcklght112/Desktop/DEV/Projects/Asset_Management/Server/bin/Debug/net6.0/System.Windows.Extensions.dll
+/home/blxcklght112/Desktop/DEV/Projects/Asset_Management/Server/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/blxcklght112/Desktop/DEV/Projects/Asset_Management/Server/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/blxcklght112/Desktop/DEV/Projects/Asset_Management/Server/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/blxcklght112/Desktop/DEV/Projects/Asset_Management/Server/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/blxcklght112/Desktop/DEV/Projects/Asset_Management/Server/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/blxcklght112/Desktop/DEV/Projects/Asset_Management/Server/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/blxcklght112/Desktop/DEV/Projects/Asset_Management/Server/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/home/blxcklght112/Desktop/DEV/Projects/Asset_Management/Server/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/home/blxcklght112/Desktop/DEV/Projects/Asset_Management/Server/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/home/blxcklght112/Desktop/DEV/Projects/Asset_Management/Server/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/home/blxcklght112/Desktop/DEV/Projects/Asset_Management/Server/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/blxcklght112/Desktop/DEV/Projects/Asset_Management/Server/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/home/blxcklght112/Desktop/DEV/Projects/Asset_Management/Server/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:/ProjectVSCODETraning/Hahahahahah/RookiesTeam4/Server/obj/Debug/net6.0/Server.csproj.AssemblyReference.cache
+D:/ProjectVSCODETraning/Hahahahahah/RookiesTeam4/Server/obj/Debug/net6.0/Server.GeneratedMSBuildEditorConfig.editorconfig
+D:/ProjectVSCODETraning/Hahahahahah/RookiesTeam4/Server/obj/Debug/net6.0/Server.AssemblyInfoInputs.cache
+D:/ProjectVSCODETraning/Hahahahahah/RookiesTeam4/Server/obj/Debug/net6.0/Server.AssemblyInfo.cs
+D:/ProjectVSCODETraning/Hahahahahah/RookiesTeam4/Server/obj/Debug/net6.0/Server.csproj.CoreCompileInputs.cache
+D:/ProjectVSCODETraning/Hahahahahah/RookiesTeam4/Server/obj/Debug/net6.0/Server.MvcApplicationPartsAssemblyInfo.cs
+D:/ProjectVSCODETraning/Hahahahahah/RookiesTeam4/Server/obj/Debug/net6.0/Server.MvcApplicationPartsAssemblyInfo.cache
+D:/ProjectVSCODETraning/Hahahahahah/RookiesTeam4/Server/obj/Debug/net6.0/Server.dll
+D:/ProjectVSCODETraning/Hahahahahah/RookiesTeam4/Server/obj/Debug/net6.0/ref/Server.dll
+D:/ProjectVSCODETraning/Hahahahahah/RookiesTeam4/Server/obj/Debug/net6.0/Server.pdb
+D:/ProjectVSCODETraning/Hahahahahah/RookiesTeam4/Server/bin/Debug/net6.0/appsettings.Development.json
+D:/ProjectVSCODETraning/Hahahahahah/RookiesTeam4/Server/bin/Debug/net6.0/appsettings.json
+D:/ProjectVSCODETraning/Hahahahahah/RookiesTeam4/Server/bin/Debug/net6.0/Server.exe
+D:/ProjectVSCODETraning/Hahahahahah/RookiesTeam4/Server/bin/Debug/net6.0/Server.deps.json
+D:/ProjectVSCODETraning/Hahahahahah/RookiesTeam4/Server/bin/Debug/net6.0/Server.runtimeconfig.json
+D:/ProjectVSCODETraning/Hahahahahah/RookiesTeam4/Server/bin/Debug/net6.0/Server.dll
+D:/ProjectVSCODETraning/Hahahahahah/RookiesTeam4/Server/bin/Debug/net6.0/ref/Server.dll
+D:/ProjectVSCODETraning/Hahahahahah/RookiesTeam4/Server/bin/Debug/net6.0/Server.pdb
+D:/ProjectVSCODETraning/Hahahahahah/RookiesTeam4/Server/bin/Debug/net6.0/Humanizer.dll
+D:/ProjectVSCODETraning/Hahahahahah/RookiesTeam4/Server/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:/ProjectVSCODETraning/Hahahahahah/RookiesTeam4/Server/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+D:/ProjectVSCODETraning/Hahahahahah/RookiesTeam4/Server/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+D:/ProjectVSCODETraning/Hahahahahah/RookiesTeam4/Server/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/ProjectVSCODETraning/Hahahahahah/RookiesTeam4/Server/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+D:/ProjectVSCODETraning/Hahahahahah/RookiesTeam4/Server/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.InMemory.dll
+D:/ProjectVSCODETraning/Hahahahahah/RookiesTeam4/Server/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+D:/ProjectVSCODETraning/Hahahahahah/RookiesTeam4/Server/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+D:/ProjectVSCODETraning/Hahahahahah/RookiesTeam4/Server/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+D:/ProjectVSCODETraning/Hahahahahah/RookiesTeam4/Server/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+D:/ProjectVSCODETraning/Hahahahahah/RookiesTeam4/Server/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+D:/ProjectVSCODETraning/Hahahahahah/RookiesTeam4/Server/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+D:/ProjectVSCODETraning/Hahahahahah/RookiesTeam4/Server/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+D:/ProjectVSCODETraning/Hahahahahah/RookiesTeam4/Server/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:/ProjectVSCODETraning/Hahahahahah/RookiesTeam4/Server/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+D:/ProjectVSCODETraning/Hahahahahah/RookiesTeam4/Server/bin/Debug/net6.0/Microsoft.OpenApi.dll
+D:/ProjectVSCODETraning/Hahahahahah/RookiesTeam4/Server/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+D:/ProjectVSCODETraning/Hahahahahah/RookiesTeam4/Server/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+D:/ProjectVSCODETraning/Hahahahahah/RookiesTeam4/Server/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+D:/ProjectVSCODETraning/Hahahahahah/RookiesTeam4/Server/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+D:/ProjectVSCODETraning/Hahahahahah/RookiesTeam4/Server/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+D:/ProjectVSCODETraning/Hahahahahah/RookiesTeam4/Server/bin/Debug/net6.0/System.Drawing.Common.dll
+D:/ProjectVSCODETraning/Hahahahahah/RookiesTeam4/Server/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+D:/ProjectVSCODETraning/Hahahahahah/RookiesTeam4/Server/bin/Debug/net6.0/System.Runtime.Caching.dll
+D:/ProjectVSCODETraning/Hahahahahah/RookiesTeam4/Server/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+D:/ProjectVSCODETraning/Hahahahahah/RookiesTeam4/Server/bin/Debug/net6.0/System.Security.Permissions.dll
+D:/ProjectVSCODETraning/Hahahahahah/RookiesTeam4/Server/bin/Debug/net6.0/System.Windows.Extensions.dll
+D:/ProjectVSCODETraning/Hahahahahah/RookiesTeam4/Server/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+D:/ProjectVSCODETraning/Hahahahahah/RookiesTeam4/Server/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+D:/ProjectVSCODETraning/Hahahahahah/RookiesTeam4/Server/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+D:/ProjectVSCODETraning/Hahahahahah/RookiesTeam4/Server/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/ProjectVSCODETraning/Hahahahahah/RookiesTeam4/Server/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/ProjectVSCODETraning/Hahahahahah/RookiesTeam4/Server/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+D:/ProjectVSCODETraning/Hahahahahah/RookiesTeam4/Server/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+D:/ProjectVSCODETraning/Hahahahahah/RookiesTeam4/Server/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+D:/ProjectVSCODETraning/Hahahahahah/RookiesTeam4/Server/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+D:/ProjectVSCODETraning/Hahahahahah/RookiesTeam4/Server/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+D:/ProjectVSCODETraning/Hahahahahah/RookiesTeam4/Server/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+D:/ProjectVSCODETraning/Hahahahahah/RookiesTeam4/Server/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+D:/ProjectVSCODETraning/Hahahahahah/RookiesTeam4/Server/obj/Debug/net6.0/staticwebassets.build.json
+D:/ProjectVSCODETraning/Hahahahahah/RookiesTeam4/Server/obj/Debug/net6.0/staticwebassets.development.json
+D:/ProjectVSCODETraning/Hahahahahah/RookiesTeam4/Server/obj/Debug/net6.0/scopedcss/bundle/Server.styles.css
+D:/ProjectVSCODETraning/Hahahahahah/RookiesTeam4/Server/obj/Debug/net6.0/Server.csproj.CopyComplete
+D:/ProjectVSCODETraning/Hahahahahah/RookiesTeam4/Server/obj/Debug/net6.0/Server.genruntimeconfig.cache
+=======
+>>>>>>> DEV_Loc
+/home/blxcklght112/Desktop/DEV/git/RookiesTeam4/Server/bin/Debug/net6.0/appsettings.Development.json
+/home/blxcklght112/Desktop/DEV/git/RookiesTeam4/Server/bin/Debug/net6.0/appsettings.json
+/home/blxcklght112/Desktop/DEV/git/RookiesTeam4/Server/bin/Debug/net6.0/Server
+/home/blxcklght112/Desktop/DEV/git/RookiesTeam4/Server/bin/Debug/net6.0/Server.deps.json
+/home/blxcklght112/Desktop/DEV/git/RookiesTeam4/Server/bin/Debug/net6.0/Server.runtimeconfig.json
+/home/blxcklght112/Desktop/DEV/git/RookiesTeam4/Server/bin/Debug/net6.0/Server.dll
+/home/blxcklght112/Desktop/DEV/git/RookiesTeam4/Server/bin/Debug/net6.0/Server.pdb
+/home/blxcklght112/Desktop/DEV/git/RookiesTeam4/Server/bin/Debug/net6.0/Humanizer.dll
+/home/blxcklght112/Desktop/DEV/git/RookiesTeam4/Server/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/blxcklght112/Desktop/DEV/git/RookiesTeam4/Server/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/home/blxcklght112/Desktop/DEV/git/RookiesTeam4/Server/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/home/blxcklght112/Desktop/DEV/git/RookiesTeam4/Server/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/blxcklght112/Desktop/DEV/git/RookiesTeam4/Server/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/blxcklght112/Desktop/DEV/git/RookiesTeam4/Server/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/home/blxcklght112/Desktop/DEV/git/RookiesTeam4/Server/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/blxcklght112/Desktop/DEV/git/RookiesTeam4/Server/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/blxcklght112/Desktop/DEV/git/RookiesTeam4/Server/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/home/blxcklght112/Desktop/DEV/git/RookiesTeam4/Server/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/home/blxcklght112/Desktop/DEV/git/RookiesTeam4/Server/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/blxcklght112/Desktop/DEV/git/RookiesTeam4/Server/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/home/blxcklght112/Desktop/DEV/git/RookiesTeam4/Server/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/home/blxcklght112/Desktop/DEV/git/RookiesTeam4/Server/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/blxcklght112/Desktop/DEV/git/RookiesTeam4/Server/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/home/blxcklght112/Desktop/DEV/git/RookiesTeam4/Server/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/home/blxcklght112/Desktop/DEV/git/RookiesTeam4/Server/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/home/blxcklght112/Desktop/DEV/git/RookiesTeam4/Server/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/blxcklght112/Desktop/DEV/git/RookiesTeam4/Server/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/blxcklght112/Desktop/DEV/git/RookiesTeam4/Server/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/blxcklght112/Desktop/DEV/git/RookiesTeam4/Server/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/home/blxcklght112/Desktop/DEV/git/RookiesTeam4/Server/bin/Debug/net6.0/System.Drawing.Common.dll
+/home/blxcklght112/Desktop/DEV/git/RookiesTeam4/Server/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/home/blxcklght112/Desktop/DEV/git/RookiesTeam4/Server/bin/Debug/net6.0/System.Runtime.Caching.dll
+/home/blxcklght112/Desktop/DEV/git/RookiesTeam4/Server/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/home/blxcklght112/Desktop/DEV/git/RookiesTeam4/Server/bin/Debug/net6.0/System.Security.Permissions.dll
+/home/blxcklght112/Desktop/DEV/git/RookiesTeam4/Server/bin/Debug/net6.0/System.Windows.Extensions.dll
+/home/blxcklght112/Desktop/DEV/git/RookiesTeam4/Server/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/blxcklght112/Desktop/DEV/git/RookiesTeam4/Server/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/blxcklght112/Desktop/DEV/git/RookiesTeam4/Server/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/blxcklght112/Desktop/DEV/git/RookiesTeam4/Server/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/blxcklght112/Desktop/DEV/git/RookiesTeam4/Server/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/blxcklght112/Desktop/DEV/git/RookiesTeam4/Server/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/blxcklght112/Desktop/DEV/git/RookiesTeam4/Server/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/home/blxcklght112/Desktop/DEV/git/RookiesTeam4/Server/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/home/blxcklght112/Desktop/DEV/git/RookiesTeam4/Server/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/home/blxcklght112/Desktop/DEV/git/RookiesTeam4/Server/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/home/blxcklght112/Desktop/DEV/git/RookiesTeam4/Server/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/blxcklght112/Desktop/DEV/git/RookiesTeam4/Server/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/home/blxcklght112/Desktop/DEV/git/RookiesTeam4/Server/obj/Debug/net6.0/Server.csproj.AssemblyReference.cache
+/home/blxcklght112/Desktop/DEV/git/RookiesTeam4/Server/obj/Debug/net6.0/Server.GeneratedMSBuildEditorConfig.editorconfig
+/home/blxcklght112/Desktop/DEV/git/RookiesTeam4/Server/obj/Debug/net6.0/Server.AssemblyInfoInputs.cache
+/home/blxcklght112/Desktop/DEV/git/RookiesTeam4/Server/obj/Debug/net6.0/Server.AssemblyInfo.cs
+/home/blxcklght112/Desktop/DEV/git/RookiesTeam4/Server/obj/Debug/net6.0/Server.csproj.CoreCompileInputs.cache
+/home/blxcklght112/Desktop/DEV/git/RookiesTeam4/Server/obj/Debug/net6.0/Server.MvcApplicationPartsAssemblyInfo.cs
+/home/blxcklght112/Desktop/DEV/git/RookiesTeam4/Server/obj/Debug/net6.0/Server.MvcApplicationPartsAssemblyInfo.cache
+/home/blxcklght112/Desktop/DEV/git/RookiesTeam4/Server/obj/Debug/net6.0/staticwebassets.build.json
+/home/blxcklght112/Desktop/DEV/git/RookiesTeam4/Server/obj/Debug/net6.0/staticwebassets.development.json
+/home/blxcklght112/Desktop/DEV/git/RookiesTeam4/Server/obj/Debug/net6.0/scopedcss/bundle/Server.styles.css
+/home/blxcklght112/Desktop/DEV/git/RookiesTeam4/Server/obj/Debug/net6.0/Server.csproj.CopyComplete
+/home/blxcklght112/Desktop/DEV/git/RookiesTeam4/Server/obj/Debug/net6.0/Server.dll
+/home/blxcklght112/Desktop/DEV/git/RookiesTeam4/Server/obj/Debug/net6.0/refint/Server.dll
+/home/blxcklght112/Desktop/DEV/git/RookiesTeam4/Server/obj/Debug/net6.0/Server.pdb
+/home/blxcklght112/Desktop/DEV/git/RookiesTeam4/Server/obj/Debug/net6.0/Server.genruntimeconfig.cache
+/home/blxcklght112/Desktop/DEV/git/RookiesTeam4/Server/obj/Debug/net6.0/ref/Server.dll
+>>>>>>> main
+A:/Study/RookiesTeam4/Server/bin/Debug/net6.0/appsettings.Development.json
+A:/Study/RookiesTeam4/Server/bin/Debug/net6.0/appsettings.json
+A:/Study/RookiesTeam4/Server/bin/Debug/net6.0/Server.exe
+A:/Study/RookiesTeam4/Server/bin/Debug/net6.0/Server.deps.json
+A:/Study/RookiesTeam4/Server/bin/Debug/net6.0/Server.runtimeconfig.json
+A:/Study/RookiesTeam4/Server/bin/Debug/net6.0/Server.dll
+A:/Study/RookiesTeam4/Server/bin/Debug/net6.0/ref/Server.dll
+A:/Study/RookiesTeam4/Server/bin/Debug/net6.0/Server.pdb
+A:/Study/RookiesTeam4/Server/bin/Debug/net6.0/Humanizer.dll
+A:/Study/RookiesTeam4/Server/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+A:/Study/RookiesTeam4/Server/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+A:/Study/RookiesTeam4/Server/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+A:/Study/RookiesTeam4/Server/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+A:/Study/RookiesTeam4/Server/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+A:/Study/RookiesTeam4/Server/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.InMemory.dll
+A:/Study/RookiesTeam4/Server/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+A:/Study/RookiesTeam4/Server/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+A:/Study/RookiesTeam4/Server/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+A:/Study/RookiesTeam4/Server/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+A:/Study/RookiesTeam4/Server/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+A:/Study/RookiesTeam4/Server/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+A:/Study/RookiesTeam4/Server/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+A:/Study/RookiesTeam4/Server/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+A:/Study/RookiesTeam4/Server/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+A:/Study/RookiesTeam4/Server/bin/Debug/net6.0/Microsoft.OpenApi.dll
+A:/Study/RookiesTeam4/Server/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+A:/Study/RookiesTeam4/Server/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+A:/Study/RookiesTeam4/Server/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+A:/Study/RookiesTeam4/Server/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+A:/Study/RookiesTeam4/Server/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+A:/Study/RookiesTeam4/Server/bin/Debug/net6.0/System.Drawing.Common.dll
+A:/Study/RookiesTeam4/Server/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+A:/Study/RookiesTeam4/Server/bin/Debug/net6.0/System.Runtime.Caching.dll
+A:/Study/RookiesTeam4/Server/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+A:/Study/RookiesTeam4/Server/bin/Debug/net6.0/System.Security.Permissions.dll
+A:/Study/RookiesTeam4/Server/bin/Debug/net6.0/System.Windows.Extensions.dll
+A:/Study/RookiesTeam4/Server/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+A:/Study/RookiesTeam4/Server/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+A:/Study/RookiesTeam4/Server/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+A:/Study/RookiesTeam4/Server/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+A:/Study/RookiesTeam4/Server/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+A:/Study/RookiesTeam4/Server/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+A:/Study/RookiesTeam4/Server/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+A:/Study/RookiesTeam4/Server/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+A:/Study/RookiesTeam4/Server/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+A:/Study/RookiesTeam4/Server/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+A:/Study/RookiesTeam4/Server/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+A:/Study/RookiesTeam4/Server/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+A:/Study/RookiesTeam4/Server/obj/Debug/net6.0/Server.csproj.AssemblyReference.cache
+A:/Study/RookiesTeam4/Server/obj/Debug/net6.0/Server.GeneratedMSBuildEditorConfig.editorconfig
+A:/Study/RookiesTeam4/Server/obj/Debug/net6.0/Server.AssemblyInfoInputs.cache
+A:/Study/RookiesTeam4/Server/obj/Debug/net6.0/Server.AssemblyInfo.cs
+A:/Study/RookiesTeam4/Server/obj/Debug/net6.0/Server.csproj.CoreCompileInputs.cache
+A:/Study/RookiesTeam4/Server/obj/Debug/net6.0/Server.MvcApplicationPartsAssemblyInfo.cs
+A:/Study/RookiesTeam4/Server/obj/Debug/net6.0/Server.MvcApplicationPartsAssemblyInfo.cache
+A:/Study/RookiesTeam4/Server/obj/Debug/net6.0/staticwebassets.build.json
+A:/Study/RookiesTeam4/Server/obj/Debug/net6.0/staticwebassets.development.json
+A:/Study/RookiesTeam4/Server/obj/Debug/net6.0/scopedcss/bundle/Server.styles.css
+A:/Study/RookiesTeam4/Server/obj/Debug/net6.0/Server.csproj.CopyComplete
+A:/Study/RookiesTeam4/Server/obj/Debug/net6.0/Server.dll
+A:/Study/RookiesTeam4/Server/obj/Debug/net6.0/ref/Server.dll
+A:/Study/RookiesTeam4/Server/obj/Debug/net6.0/Server.pdb
+A:/Study/RookiesTeam4/Server/obj/Debug/net6.0/Server.genruntimeconfig.cache
+A:/Study/RookiesTeam4/Server/bin/Debug/net6.0/System.Web.Cors.dll
+A:/Study/RookiesTeam4/Server/bin/Debug/net6.0/System.Net.Http.Formatting.dll
+A:/Study/RookiesTeam4/Server/bin/Debug/net6.0/System.Web.Http.dll
+A:/Study/RookiesTeam4/Server/bin/Debug/net6.0/System.Web.Http.Cors.dll
+A:/Study/RookiesTeam4/Server/bin/Debug/net6.0/Newtonsoft.Json.dll
+A:/Study/RookiesTeam4/Server/bin/Debug/net6.0/Newtonsoft.Json.Bson.dll
+>>>>>>> origin/HongSon
+C:\Users\TRUNGKINHNO1\Desktop\LOC\RookiesTeam4\Server\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\TRUNGKINHNO1\Desktop\LOC\RookiesTeam4\Server\bin\Debug\net6.0\appsettings.json
+C:\Users\TRUNGKINHNO1\Desktop\LOC\RookiesTeam4\Server\bin\Debug\net6.0\Server.exe
+C:\Users\TRUNGKINHNO1\Desktop\LOC\RookiesTeam4\Server\bin\Debug\net6.0\Server.deps.json
+C:\Users\TRUNGKINHNO1\Desktop\LOC\RookiesTeam4\Server\bin\Debug\net6.0\Server.runtimeconfig.json
+C:\Users\TRUNGKINHNO1\Desktop\LOC\RookiesTeam4\Server\bin\Debug\net6.0\Server.dll
+C:\Users\TRUNGKINHNO1\Desktop\LOC\RookiesTeam4\Server\bin\Debug\net6.0\Server.pdb
+C:\Users\TRUNGKINHNO1\Desktop\LOC\RookiesTeam4\Server\bin\Debug\net6.0\Humanizer.dll
+C:\Users\TRUNGKINHNO1\Desktop\LOC\RookiesTeam4\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\TRUNGKINHNO1\Desktop\LOC\RookiesTeam4\Server\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\TRUNGKINHNO1\Desktop\LOC\RookiesTeam4\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\TRUNGKINHNO1\Desktop\LOC\RookiesTeam4\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\TRUNGKINHNO1\Desktop\LOC\RookiesTeam4\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\TRUNGKINHNO1\Desktop\LOC\RookiesTeam4\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\TRUNGKINHNO1\Desktop\LOC\RookiesTeam4\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\TRUNGKINHNO1\Desktop\LOC\RookiesTeam4\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\TRUNGKINHNO1\Desktop\LOC\RookiesTeam4\Server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\TRUNGKINHNO1\Desktop\LOC\RookiesTeam4\Server\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\TRUNGKINHNO1\Desktop\LOC\RookiesTeam4\Server\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\TRUNGKINHNO1\Desktop\LOC\RookiesTeam4\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\TRUNGKINHNO1\Desktop\LOC\RookiesTeam4\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\TRUNGKINHNO1\Desktop\LOC\RookiesTeam4\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\TRUNGKINHNO1\Desktop\LOC\RookiesTeam4\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\TRUNGKINHNO1\Desktop\LOC\RookiesTeam4\Server\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\TRUNGKINHNO1\Desktop\LOC\RookiesTeam4\Server\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\TRUNGKINHNO1\Desktop\LOC\RookiesTeam4\Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\TRUNGKINHNO1\Desktop\LOC\RookiesTeam4\Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\TRUNGKINHNO1\Desktop\LOC\RookiesTeam4\Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\TRUNGKINHNO1\Desktop\LOC\RookiesTeam4\Server\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\TRUNGKINHNO1\Desktop\LOC\RookiesTeam4\Server\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\TRUNGKINHNO1\Desktop\LOC\RookiesTeam4\Server\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\TRUNGKINHNO1\Desktop\LOC\RookiesTeam4\Server\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\TRUNGKINHNO1\Desktop\LOC\RookiesTeam4\Server\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TRUNGKINHNO1\Desktop\LOC\RookiesTeam4\Server\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\TRUNGKINHNO1\Desktop\LOC\RookiesTeam4\Server\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\TRUNGKINHNO1\Desktop\LOC\RookiesTeam4\Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\TRUNGKINHNO1\Desktop\LOC\RookiesTeam4\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\TRUNGKINHNO1\Desktop\LOC\RookiesTeam4\Server\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TRUNGKINHNO1\Desktop\LOC\RookiesTeam4\Server\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TRUNGKINHNO1\Desktop\LOC\RookiesTeam4\Server\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TRUNGKINHNO1\Desktop\LOC\RookiesTeam4\Server\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TRUNGKINHNO1\Desktop\LOC\RookiesTeam4\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\TRUNGKINHNO1\Desktop\LOC\RookiesTeam4\Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\TRUNGKINHNO1\Desktop\LOC\RookiesTeam4\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\TRUNGKINHNO1\Desktop\LOC\RookiesTeam4\Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\TRUNGKINHNO1\Desktop\LOC\RookiesTeam4\Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TRUNGKINHNO1\Desktop\LOC\RookiesTeam4\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\TRUNGKINHNO1\Desktop\LOC\RookiesTeam4\Server\obj\Debug\net6.0\Server.csproj.AssemblyReference.cache
+C:\Users\TRUNGKINHNO1\Desktop\LOC\RookiesTeam4\Server\obj\Debug\net6.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TRUNGKINHNO1\Desktop\LOC\RookiesTeam4\Server\obj\Debug\net6.0\Server.AssemblyInfoInputs.cache
+C:\Users\TRUNGKINHNO1\Desktop\LOC\RookiesTeam4\Server\obj\Debug\net6.0\Server.AssemblyInfo.cs
+C:\Users\TRUNGKINHNO1\Desktop\LOC\RookiesTeam4\Server\obj\Debug\net6.0\Server.csproj.CoreCompileInputs.cache
+C:\Users\TRUNGKINHNO1\Desktop\LOC\RookiesTeam4\Server\obj\Debug\net6.0\Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\TRUNGKINHNO1\Desktop\LOC\RookiesTeam4\Server\obj\Debug\net6.0\Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\TRUNGKINHNO1\Desktop\LOC\RookiesTeam4\Server\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\TRUNGKINHNO1\Desktop\LOC\RookiesTeam4\Server\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\TRUNGKINHNO1\Desktop\LOC\RookiesTeam4\Server\obj\Debug\net6.0\scopedcss\bundle\Server.styles.css
+C:\Users\TRUNGKINHNO1\Desktop\LOC\RookiesTeam4\Server\obj\Debug\net6.0\Server.csproj.CopyComplete
+C:\Users\TRUNGKINHNO1\Desktop\LOC\RookiesTeam4\Server\obj\Debug\net6.0\Server.dll
+C:\Users\TRUNGKINHNO1\Desktop\LOC\RookiesTeam4\Server\obj\Debug\net6.0\refint\Server.dll
+C:\Users\TRUNGKINHNO1\Desktop\LOC\RookiesTeam4\Server\obj\Debug\net6.0\Server.pdb
+C:\Users\TRUNGKINHNO1\Desktop\LOC\RookiesTeam4\Server\obj\Debug\net6.0\Server.genruntimeconfig.cache
+C:\Users\TRUNGKINHNO1\Desktop\LOC\RookiesTeam4\Server\obj\Debug\net6.0\ref\Server.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\RookiesTeam4\Server\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\RookiesTeam4\Server\bin\Debug\net6.0\appsettings.json
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\RookiesTeam4\Server\bin\Debug\net6.0\Server.exe
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\RookiesTeam4\Server\bin\Debug\net6.0\Server.deps.json
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\RookiesTeam4\Server\bin\Debug\net6.0\Server.runtimeconfig.json
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\RookiesTeam4\Server\bin\Debug\net6.0\Server.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\RookiesTeam4\Server\bin\Debug\net6.0\Server.pdb
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\RookiesTeam4\Server\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\RookiesTeam4\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\RookiesTeam4\Server\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\RookiesTeam4\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\RookiesTeam4\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\RookiesTeam4\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\RookiesTeam4\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\RookiesTeam4\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\RookiesTeam4\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\RookiesTeam4\Server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\RookiesTeam4\Server\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\RookiesTeam4\Server\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\RookiesTeam4\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\RookiesTeam4\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\RookiesTeam4\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\RookiesTeam4\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\RookiesTeam4\Server\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\RookiesTeam4\Server\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\RookiesTeam4\Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\RookiesTeam4\Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\RookiesTeam4\Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\RookiesTeam4\Server\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\RookiesTeam4\Server\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\RookiesTeam4\Server\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\RookiesTeam4\Server\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\RookiesTeam4\Server\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\RookiesTeam4\Server\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\RookiesTeam4\Server\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\RookiesTeam4\Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\RookiesTeam4\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\RookiesTeam4\Server\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\RookiesTeam4\Server\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\RookiesTeam4\Server\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\RookiesTeam4\Server\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\RookiesTeam4\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\RookiesTeam4\Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\RookiesTeam4\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\RookiesTeam4\Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\RookiesTeam4\Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\RookiesTeam4\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\RookiesTeam4\Server\obj\Debug\net6.0\Server.csproj.AssemblyReference.cache
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\RookiesTeam4\Server\obj\Debug\net6.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\RookiesTeam4\Server\obj\Debug\net6.0\Server.AssemblyInfoInputs.cache
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\RookiesTeam4\Server\obj\Debug\net6.0\Server.AssemblyInfo.cs
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\RookiesTeam4\Server\obj\Debug\net6.0\Server.csproj.CoreCompileInputs.cache
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\RookiesTeam4\Server\obj\Debug\net6.0\Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\RookiesTeam4\Server\obj\Debug\net6.0\Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\RookiesTeam4\Server\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\RookiesTeam4\Server\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\RookiesTeam4\Server\obj\Debug\net6.0\scopedcss\bundle\Server.styles.css
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\RookiesTeam4\Server\obj\Debug\net6.0\Server.csproj.CopyComplete
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\RookiesTeam4\Server\obj\Debug\net6.0\Server.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\RookiesTeam4\Server\obj\Debug\net6.0\refint\Server.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\RookiesTeam4\Server\obj\Debug\net6.0\Server.pdb
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\RookiesTeam4\Server\obj\Debug\net6.0\Server.genruntimeconfig.cache
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\RookiesTeam4\Server\obj\Debug\net6.0\ref\Server.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\Server\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\Server\bin\Debug\net6.0\appsettings.json
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\Server\bin\Debug\net6.0\Server.exe
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\Server\bin\Debug\net6.0\Server.deps.json
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\Server\bin\Debug\net6.0\Server.runtimeconfig.json
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\Server\bin\Debug\net6.0\Server.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\Server\bin\Debug\net6.0\Server.pdb
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\Server\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\Server\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\Server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\Server\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\Server\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\Server\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\Server\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\Server\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\Server\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\Server\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\Server\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\Server\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\Server\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\Server\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\Server\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\Server\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\Server\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\Server\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\Server\obj\Debug\net6.0\Server.csproj.AssemblyReference.cache
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\Server\obj\Debug\net6.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\Server\obj\Debug\net6.0\Server.AssemblyInfoInputs.cache
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\Server\obj\Debug\net6.0\Server.AssemblyInfo.cs
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\Server\obj\Debug\net6.0\Server.csproj.CoreCompileInputs.cache
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\Server\obj\Debug\net6.0\Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\Server\obj\Debug\net6.0\Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\Server\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\Server\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\Server\obj\Debug\net6.0\scopedcss\bundle\Server.styles.css
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\Server\obj\Debug\net6.0\Server.csproj.CopyComplete
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\Server\obj\Debug\net6.0\Server.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\Server\obj\Debug\net6.0\refint\Server.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\Server\obj\Debug\net6.0\Server.pdb
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\Server\obj\Debug\net6.0\Server.genruntimeconfig.cache
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\Server\obj\Debug\net6.0\ref\Server.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\FinalTime\Server\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\FinalTime\Server\bin\Debug\net6.0\appsettings.json
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\FinalTime\Server\bin\Debug\net6.0\Server.exe
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\FinalTime\Server\bin\Debug\net6.0\Server.deps.json
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\FinalTime\Server\bin\Debug\net6.0\Server.runtimeconfig.json
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\FinalTime\Server\bin\Debug\net6.0\Server.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\FinalTime\Server\bin\Debug\net6.0\Server.pdb
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\FinalTime\Server\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\FinalTime\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\FinalTime\Server\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\FinalTime\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\FinalTime\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\FinalTime\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\FinalTime\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\FinalTime\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\FinalTime\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\FinalTime\Server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\FinalTime\Server\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\FinalTime\Server\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\FinalTime\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\FinalTime\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\FinalTime\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\FinalTime\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\FinalTime\Server\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\FinalTime\Server\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\FinalTime\Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\FinalTime\Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\FinalTime\Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\FinalTime\Server\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\FinalTime\Server\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\FinalTime\Server\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\FinalTime\Server\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\FinalTime\Server\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\FinalTime\Server\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\FinalTime\Server\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\FinalTime\Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\FinalTime\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\FinalTime\Server\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\FinalTime\Server\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\FinalTime\Server\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\FinalTime\Server\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\FinalTime\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\FinalTime\Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\FinalTime\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\FinalTime\Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\FinalTime\Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\FinalTime\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\FinalTime\Server\obj\Debug\net6.0\Server.csproj.AssemblyReference.cache
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\FinalTime\Server\obj\Debug\net6.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\FinalTime\Server\obj\Debug\net6.0\Server.AssemblyInfoInputs.cache
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\FinalTime\Server\obj\Debug\net6.0\Server.AssemblyInfo.cs
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\FinalTime\Server\obj\Debug\net6.0\Server.csproj.CoreCompileInputs.cache
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\FinalTime\Server\obj\Debug\net6.0\Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\FinalTime\Server\obj\Debug\net6.0\Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\FinalTime\Server\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\FinalTime\Server\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\FinalTime\Server\obj\Debug\net6.0\scopedcss\bundle\Server.styles.css
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\FinalTime\Server\obj\Debug\net6.0\Server.csproj.CopyComplete
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\FinalTime\Server\obj\Debug\net6.0\Server.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\FinalTime\Server\obj\Debug\net6.0\refint\Server.dll
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\FinalTime\Server\obj\Debug\net6.0\Server.pdb
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\FinalTime\Server\obj\Debug\net6.0\Server.genruntimeconfig.cache
+C:\Users\Welcome\OneDrive\Documents\Project Thực Tập\Lan cuoi thuc su nay\DoAnTotNghiep\FinalTime\Server\obj\Debug\net6.0\ref\Server.dll
